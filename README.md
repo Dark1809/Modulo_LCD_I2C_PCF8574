@@ -8,11 +8,12 @@ Biblioteca do Módulo LCD I2C 16x2 Atmega328p
 
   PCF8574:
   
-  ![adress_PCF8574](https://github.com/Dark1809/Modulo_LCD_I2C_PCF8574/assets/149520927/24ed71cf-e9d1-409f-a271-510542b14c67)
+  ![adress_PCF8574](https://github.com/Dark1809/Modulo_LCD_I2C_PCF8574/assets/149520927/c352787e-9c54-432b-9d3f-9bdd52967c3f)
 
   PCF8574A:
   
-  ![adress_PCF8574A](https://github.com/Dark1809/Modulo_LCD_I2C_PCF8574/assets/149520927/9985a118-b14b-464b-b05a-f1f6080aed1b)
+  ![adress_PCF8574A](https://github.com/Dark1809/Modulo_LCD_I2C_PCF8574/assets/149520927/be0f08d3-53ed-4d44-ad04-508c07daab61)
+
 
   
 - Após de consultar a tabela utilize o Adrress byte value -> write
