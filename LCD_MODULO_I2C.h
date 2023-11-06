@@ -1,6 +1,6 @@
 /* 
  * File: LCD_MODULO_I2C   
- * Author: Estevão Kung
+ * Author: Dark1809
  * Comments:biblioteca para avrs * 
  */
 #include <avr/io.h>
